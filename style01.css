@@ -6,7 +6,7 @@
 @import url("https://fonts.googleapis.com/css?family=Audiowide");
 
 header {
-    height: 150vh;
+    min-height: 150vh;
     width: 120vw;
     font-family: "Audiowide", sans-serif;
     color: white;
