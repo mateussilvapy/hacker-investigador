@@ -9,6 +9,7 @@
 
 header {
     height: 20rem;
+    width: 100vw;
     font-family: "Audiowide", sans-serif;
     color: white;
     background-color: rgb(44, 40, 40);
