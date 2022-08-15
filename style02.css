@@ -6,7 +6,8 @@
 @import url("https://fonts.googleapis.com/css?family=Audiowide");
 
 header {
-    height: 67rem;
+    height: 150vh;
+    width: 120vw;
     font-family: "Audiowide", sans-serif;
     color: white;
     background-color: rgb(44, 40, 40);
@@ -35,12 +36,13 @@ h2.sub {
 }
 
 h3 {
-    padding: 60px;
+    padding: 50px;
     text-align: center;
     margin: auto;
     width: 25rem;
     font-weight: 900;
     font-size: 1.5em;
+    padding-top: 1px;
 }
 
 body {
@@ -51,7 +53,7 @@ h3.fundo {
     background-color: red;
     height: 5px;
     padding-top: 10px;
-    padding-bottom: 110px;
+    padding-bottom: 60px;
 }
 
 img {
