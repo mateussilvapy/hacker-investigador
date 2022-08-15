@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+
+header {
+    height: 45rem;
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    background-color: rgb(44, 40, 40);
+    font-size: small;
+    text-shadow: 1px 1px 2px rgb(32, 129, 5);
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-align: center;
+}
+
+h1 {
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    font-weight: 900;
+    display: block;
+    font-size: 5em;
+}
+
+h2.sub {
+    text-align: center;
+    padding-top: 60px;
+    font-weight: 800;
+    display: block;
+}
+
+h3 {
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    width: 25rem;
+    font-weight: 900;
+    font-size: 1.5em;
+}
+
+h3.cont {
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    width: 25rem;
+    font-weight: 900;
+    font-size: 1.5em;
+    background-color: red;
+}
+
+body {
+    background-color: chartreuse;
+}
+
+img {
+    height: 100px;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}

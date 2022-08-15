@@ -1,0 +1,155 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+
+
+header {
+    height: 20rem;
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    background-color: rgb(44, 40, 40);
+    font-size: small;
+    text-shadow: 1px 1px 2px rgb(32, 129, 5);
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+img.logo {
+    height: 50px;
+    width: 50px;
+    display: block;
+}
+
+h1 {
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    font-weight: 900;
+    display: block;
+}
+
+h2.sub {
+    text-align: center;
+    padding-top: 0px;
+    font-weight: 800;
+    display: block;
+}
+
+h2.sub2 {
+    text-align: center;
+    padding-top: 60px;
+    font-weight: 800;
+    display: block;
+}
+
+h2.contato {
+    text-align: center;
+    background-color: darkred;
+    width: 25rem;
+    margin: auto;
+}
+
+section.primeiro {
+    height: 110rem;
+    background-color: black;
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    margin-top: 2px;
+    text-shadow: 1px 1px 1px rgba(33, 124, 33, 0.76);
+    font-size: larger;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+section.segundo {
+    height: 29rem;
+    background-color: black;
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    margin-top: 2px;
+    text-shadow: 1px 1px 1px rgba(33, 124, 33, 0.76);
+    font-size: larger;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+section.ter {
+    background-color: chartreuse;
+    height: 2px;
+}
+
+h3 {
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    width: 25rem;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin: auto;
+    padding-top: 5px;
+    height: 150px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    background-color: rgb(44, 40, 40);
+    font-size: 1em;
+    height: 10rem;
+    font-family: "Audiowide", sans-serif;
+    color: white;
+    text-shadow: 1px 1px 2px rgb(32, 129, 5);
+    text-align: center;
+    padding-top: 2rem;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+body {
+    background-color: chartreuse;
+}
+
+nav a {
+    text-shadow: 1px 1px 1px solid black;
+    font-size: 1.2em;
+    font-family:  "Audiowide", sans-serif;
+    font-weight: 900;
+    text-shadow: 1px 1px 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+}
+
+nav a:hover {
+    background-color: red;
+    font-size: 1.4em;
+}
+
+nav {
+    background-color: black;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+img.logo {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 1px;
+    padding-bottom: 1px;
+}
+
+
+
