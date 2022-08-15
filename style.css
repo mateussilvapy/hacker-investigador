@@ -57,6 +57,7 @@ h2.contato {
 
 section.primeiro {
     height: 110rem;
+    width: 100vw;
     background-color: black;
     color: white;
     font-family: "Audiowide", sans-serif;
@@ -69,6 +70,7 @@ section.primeiro {
 }
 
 section.segundo {
+    width: 100vw;
     height: 29rem;
     background-color: black;
     color: white;
@@ -110,6 +112,7 @@ footer {
     background-color: rgb(44, 40, 40);
     font-size: 1em;
     height: 10rem;
+    width: 100vw;
     font-family: "Audiowide", sans-serif;
     color: white;
     text-shadow: 1px 1px 2px rgb(32, 129, 5);
@@ -143,6 +146,7 @@ nav {
     background-color: black;
     margin-left: 2px;
     margin-right: 2px;
+    width: 100vw;
 }
 
 img.logo {
