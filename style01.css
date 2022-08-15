@@ -46,6 +46,7 @@ h3 {
 
 body {
     background-color: chartreuse;
+    width: 100vw;
 }
 
 h3.fundo {
